@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hola, soy Johan Posada 👋
 
-Tengo 20 años y curso quinto semestre de Ingeniería de Sistemas. Empecé a programar a los 14 años. Me interesa el desarrollo de software. He estructurado proyectos enfocados en la lógica backend usando Django para perfeccionar mis capacidades en la construcción de aplicaciones web. Mis intereses abarcan las matemáticas, la robótica y el aprendizaje automático, área en la que aspiro iniciar formación técnica.
+Tengo 21 años y curso sexto semestre de Ingeniería de Sistemas. Empecé a programar a los 14 años. Me interesa el desarrollo de software. He estructurado proyectos enfocados en la lógica backend usando Django para perfeccionar mis capacidades en la construcción de aplicaciones web. Mis intereses abarcan las matemáticas, la robótica y el aprendizaje automático, área en la que aspiro iniciar formación técnica.
 
 ---
 
